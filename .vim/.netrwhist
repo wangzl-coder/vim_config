@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/wangzl/RDA512W_Netrange_20200915/aps/application/s2tek/formal_Public'
+let g:netrw_dirhist_2='/home/wangzl/RDA512W_Netrange_20200915/aps/middleware'
+let g:netrw_dirhist_3='/home/wangzl/s2_RDA/aps/initramfs/package_net_miracast_aic8800/lib/firmware/aic8800'
+let g:netrw_dirhist_4='/home/wangzl/RDA8528_Release_0720/aps/application/s2tek/formal'
+let g:netrw_dirhist_5='/home/wangzl/workSpace/mystudy_notes/data_struct/linear/linear_list/kernel_list'
+let g:netrw_dirhist_6='/home/wangzl/workSpace/mystudy_notes/linux_c/sec14_ipc'
+let g:netrw_dirhist_7='/home/wangzl/workSpace/mystudy_notes/linux_c/sec14_ipc/fifo_cliserver'
